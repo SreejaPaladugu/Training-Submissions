@@ -1,4 +1,4 @@
-# Mini Project: Weather Data Analyzer
+#Hard2: Mini Project: Weather Data Analyzer
 
 import pandas as pd
 import matplotlib.pyplot as plt
