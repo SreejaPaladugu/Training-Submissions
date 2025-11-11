@@ -7,9 +7,7 @@ Generate random exam scores for 100 students across 5 subjects using NumPy.
 
 Compute per-student average, per-subject average, and top performers.
 
-Identify students who scored below the class average.
-
-Visualize with matplotlib .'''
+Identify students who scored below the class average.'''
 
 import numpy as np
 
