@@ -1,0 +1,3 @@
+In this question, I explored the core ideas behind advanced SQL joins and aggregations. The focus was on understanding how different join types can merge data from multiple related tables and how aggregation functions summarize that combined data. This involved learning how SQL handles relational structures and logically organizes data to support meaningful analysis.
+
+The outcome of this question is a clear understanding of how joins and aggregations work together to answer analytical questions. Joins supply the breadth of data by combining tables, and aggregations supply depth by calculating totals, averages, and other metrics. Together, they allow complex insights such as identifying trends, summarizing performance, and comparing values across groups.
