@@ -1,0 +1,5 @@
+customer_id,name,country,age,spend,segment
+1,Alice,US,25.0,1200,Mid
+2,Bob,INDIA,29.0,800,Mid
+3,Cathy,US,31.0,2200,High
+4,Dan,EU,29.0,500,Low

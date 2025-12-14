@@ -1,0 +1,6 @@
+order_id,region,product,price,quantity,revenue
+1,US,Laptop,900,1,900
+2,India,Phone,600,2,1200
+3,US,Laptop,950,1,950
+4,India,Tablet,400,1,400
+5,US,Phone,650,1,650

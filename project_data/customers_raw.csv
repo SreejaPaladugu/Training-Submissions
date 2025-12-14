@@ -1,0 +1,5 @@
+customer_id,name,country,age,spend
+1, alice ,US,25.0,1200
+2,BOB,India,,800
+3,cathy,US,31.0,2200
+4,dan,EU,29.0,500
