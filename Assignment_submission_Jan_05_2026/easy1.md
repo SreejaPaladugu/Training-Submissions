@@ -1,0 +1,1 @@
+A data warehouse is a centralized system designed to store large volumes of historical data from multiple sources in a structured and consistent format. It is optimized for querying, reporting, and analysis rather than day-to-day transactions. Core concepts include subject-oriented data, time-variant storage, non-volatile data, and dimensional modeling (facts and dimensions).
